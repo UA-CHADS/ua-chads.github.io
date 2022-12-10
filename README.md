@@ -1,1 +1,1 @@
-# ua-cybersecurity_hacking_and_digital_security.github.io
+# University of Alberta's Cybersecurity, Hacking(ethical) And Digital Security Club Official Github 
